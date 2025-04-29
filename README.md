@@ -2,10 +2,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Atypicalim&theme=transparent&layout=compact&show_icons=true&count_private=true&hide_title=true"
-    style="width: 55%; max-width: 55%; min-width: 55%;">
+    style="width: 60%; ">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atypicalim&theme=transparent&layout=compact&hide_progress=false"
-    style="width: 35%; max-width: 35%; min-width: 35%;">
-</p
+    style="width: 38.5%; ">
+</p>
 
 <!--
 **Atypicalim/Atypicalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
